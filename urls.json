@@ -1,9 +1,9 @@
 {
-  "base": "https://navansh12.github.io/houss-legal",
-  "privacy": "https://navansh12.github.io/houss-legal/privacy.html",
-  "terms": "https://navansh12.github.io/houss-legal/terms.html",
-  "refund": "https://navansh12.github.io/houss-legal/refund.html",
-  "dataRetention": "https://navansh12.github.io/houss-legal/data-retention.html",
-  "accountDeletion": "https://navansh12.github.io/houss-legal/account-deletion.html",
-  "updatedAt": "2026-08-25T11:19:49.648Z"
+  "base": "https://legal.houss.co.in",
+  "privacy": "https://legal.houss.co.in/privacy.html",
+  "terms": "https://legal.houss.co.in/terms.html",
+  "refund": "https://legal.houss.co.in/refund.html",
+  "dataRetention": "https://legal.houss.co.in/data-retention.html",
+  "accountDeletion": "https://legal.houss.co.in/account-deletion.html",
+  "updatedAt": "2026-08-25T11:59:20.306Z"
 }
